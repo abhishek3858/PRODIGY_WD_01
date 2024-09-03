@@ -22,11 +22,8 @@ https://interactive-navigation-menu-rosy.vercel.app/
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/imaadiiii/PRODIGY_WD_01.git
-   ```
-2. Navigate to the project directory:
+
+1. Navigate to the project directory:
    ```bash
    cd interactive-navigation-menu
    ```
